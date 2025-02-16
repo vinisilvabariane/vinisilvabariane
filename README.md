@@ -33,11 +33,8 @@
 
 ## 📫 Entre em Contato
 <p>
-  <a href="https://www.linkedin.com/in/vinisilvabariane/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-bariane-57a298221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:vinisilvabariane10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/vinisilvabariane/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
