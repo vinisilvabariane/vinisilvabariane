@@ -1,15 +1,19 @@
-<!-- README.md para o GitHub Profile -->
 
-<h1 align="center"> Bem vindo ao meu perfil GitHub 👋 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinisilvabariane.vinisilvabariane" />
+### Exemplo Final:
+Aqui está o seu README modificado com algumas animações e elementos extras:
+
+```html
+<h1 align="center">
+  Bem-vindo ao meu perfil GitHub 👋
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinisilvabariane.vinisilvabariane" />
 </h1>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saX6AWBVVdYw/giphy.gif" width="100%" height="200" />
   <a href="https://github.com/vinisilvabariane">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&langs_count=5&theme=dracula"/>
   </a>
 </div>
-
 
 ## 🚀 Sobre mim
 
@@ -30,5 +34,12 @@
   <a href="https://www.linkedin.com/in/vinicius-bariane-57a298221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/vini_bariane/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vini_bariane/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </p>
+
+## 🖥️ Clonar Repositório
+
+```bash
+git clone https://github.com/vinisilvabariane/repositorio.git
