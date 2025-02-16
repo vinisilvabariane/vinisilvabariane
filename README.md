@@ -15,7 +15,7 @@
 - 🎓 **Formação**: Desenvolvedor FullStack
 - 💻 **Atualmente**: Focado em **Backend**
 - 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL 
-- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
+- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
@@ -26,15 +26,10 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
-## 📂 Projetos Destacados
-- 🔹 [Sistema de criação de usuários e login](https://github.com/vinisilvabariane/apinotionlogin)
-- 🔹 [Landing-Page](https://github.com/vinisilvabariane/Landing-Page)
-- 🔹 [Projeto-Cordel](https://github.com/vinisilvabariane/Projeto-Cordel)
-
 ## 📫 Entre em Contato
 <p>
   <a href="https://www.linkedin.com/in/vinicius-bariane-57a298221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/vinisilvabariane/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.instagram.com/vinisilvabariane/](https://www.instagram.com/vini_bariane/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
