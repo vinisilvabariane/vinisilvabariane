@@ -12,14 +12,13 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 **Formação**: Desenvolvedor FullStack
-- 💻 **Atualmente**: Focado em **Backend**
-- 📊 **Habilidades**: Java, API Rest, SQL, SpringBoot, PostgreSQL 
+- 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação
+- 💻 **Atualmente**: Focado em **PHP**
+- 📊 **Habilidades**: Java, React, React Native, SQL, PHP, MySql, CSS, HTML, C
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)
 
 ## 🛠️ Tecnologias e Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=java&logoColor=blue">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
