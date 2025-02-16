@@ -1,8 +1,4 @@
 
-### Exemplo Final:
-Aqui está o seu README modificado com algumas animações e elementos extras:
-
-```html
 <h1 align="center">
   Bem-vindo ao meu perfil GitHub 👋
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinisilvabariane.vinisilvabariane" />
