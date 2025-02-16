@@ -10,37 +10,6 @@
   </a>
 </div>
 
-
-<h1 align="center"> Bem-vindo ao meu perfil GitHub 👋 </h1>
-
-<div align="center">
-  <!-- Animação SVG com Gradiente -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff7e5f;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#feb47b;stop-opacity:1" />
-      </linearGradient>
-      <filter id="gooey" x="0" y="0" width="200%" height="200%">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="15" result="blur"/>
-        <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 20 -10" result="gooey"/>
-      </filter>
-    </defs>
-    <circle cx="100" cy="100" r="50" fill="url(#grad1)" filter="url(#gooey)">
-      <animate attributeName="cx" values="100;50;150;100" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;50;150;100" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-</div>
-
-<p align="center">
-  <a href="https://github.com/vinisilvabariane">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&langs_count=5&theme=dracula"/>
-  </a>
-</p>
-
-
-
 ## 🚀 Sobre mim
 
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação
