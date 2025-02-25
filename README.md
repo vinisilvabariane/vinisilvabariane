@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Criando+projetos+com+PHP%2C+Java%2C+React+e+mais!;Sempre+aprendendo+e+compartilhando+conhecimento!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Criando+projetos+com+PHP%2C+Java%2C+e+mais!;Sempre+compartilhando+conhecimento!+🚀" />
 </p>
 
 ---
