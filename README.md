@@ -34,8 +34,15 @@
 
 <div align="center">
   <a href="https://github.com/vinisilvabariane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&langs_count=5&theme=dracula&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&langs_count=10&theme=dracula&cache_seconds=86400"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinisilvabariane&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinisilvabariane&theme=dracula" />
 </div>
 
 ---
