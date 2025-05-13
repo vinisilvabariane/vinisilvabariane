@@ -15,7 +15,7 @@
 
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
 - 💻 **Atualmente**: Focado em **PHP**  
-- 📊 **Habilidades**: Java, React, React Native, SQL, PHP, MySQL, CSS, HTML, C  
+- 📊 **Habilidades**: JavaScript, Vue, Vuetify, PHP, Laravel, Python, Django, MySQL, CSS, Bootstrap, HTML, C  
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)  
 
 📌 *Sou um programador apaixonado por tecnologia, sempre buscando aprender e desenvolver soluções inovadoras!*  
@@ -25,7 +25,7 @@
 ## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,react,html,css,js,mysql,c,linux" />
+  <img src="https://skillicons.dev/icons?i=html,php,python,js,css,laravel,django,vue,bootstrap,mysql,c,linux,windows" />
 </p>
 
 ---
