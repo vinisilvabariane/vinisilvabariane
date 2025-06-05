@@ -24,9 +24,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,php,python,django,js,react,react-native,node,css,bootstrap,mysql,c,linux,windows" />
-</p>
+<div align="center">
+  <h3>Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=html,php,python,django,js,react,reactnative,nodejs,css,bootstrap,mysql,c,linux,windows" />
+</div>
 
 ---
 
