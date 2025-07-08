@@ -15,7 +15,7 @@
 
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
 - 💻 **Atualmente**: Focado em **PHP**  
-- 📊 **Habilidades**: JavaScript, Next, Java, Python, Django, MySQL  
+- 📊 **Habilidades**: Javascript, Next, Java, Python, Django, MySQL  
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)  
 
 📌 *Sou um programador apaixonado por tecnologia, sempre buscando aprender e desenvolver soluções inovadoras!*  
