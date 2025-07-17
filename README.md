@@ -2,8 +2,11 @@
 
 <h1 align="center"> 
   Olá, eu sou o Vinicius Bariane! 👋  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinisilvabariane.vinisilvabariane" alt="Contador de visitas" />
 </h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinisilvabariane/vinisilvabariane/main/banner-github.png" alt="Banner" style="max-width: 100%;" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Criando+projetos+com+PHP%2C+Java%2C+e+mais!;Sempre+compartilhando+conhecimento!+🚀" />
@@ -30,18 +33,6 @@
 </div>
 
 ---
-
-## 📊 Estatísticas  
-
-<div align="center">
-  <a href="https://github.com/vinisilvabariane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&langs_count=10&theme=dracula&cache_seconds=86400"/>
-  </a>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinisilvabariane&theme=dracula" />
-</div>
-
-
 
 ## 🌎 Onde me encontrar  
 
