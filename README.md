@@ -14,7 +14,7 @@
 
 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
 💻 **Atualmente**: Focado em **PHP** e APIs REST  
-📊 **Habilidades**: JavaScript, Next.js, Java, Python, Django, MySQL  
+📊 **Habilidades**: PHP, Java, Python, MySQL  
 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)  
 
 > 💡 *Sou um programador apaixonado por tecnologia, sempre explorando novas ferramentas e criando soluções inovadoras.*  
@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,django,js,react,next,nodejs,java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,mysql" />
 </div>
 
 ---
