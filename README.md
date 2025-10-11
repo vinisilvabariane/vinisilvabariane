@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,java,spring,csharp,mysql" />
 </div>
 
 ---
