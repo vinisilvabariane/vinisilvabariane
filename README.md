@@ -13,8 +13,8 @@
 ## 🚀 Sobre mim
 
 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
-💻 **Atualmente**: Focado em **PHP** e APIs REST  
-📊 **Habilidades**: PHP, Java, Python, MySQL  
+💻 **Atualmente**: Focado em **PHP**
+📊 **Habilidades**: PHP, Java  
 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)  
 
 > 💡 *Sou um programador apaixonado por tecnologia, sempre explorando novas ferramentas e criando soluções inovadoras.*  
