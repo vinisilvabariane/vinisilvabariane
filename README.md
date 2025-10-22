@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Criando+projetos+em+PHP%2C+Java%2C+C%23+e+mais!;Sempre+compartilhando+conhecimento!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Foco+em+C%23+e+ASP.NET;Sempre+compartilhando+conhecimento!+🚀" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## 🚀 Sobre mim
 
 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
-💻 **Atualmente**: Focado em **PHP**  
-📊 **Habilidades**: PHP, Java, C#  
+💻 **Atualmente**: Focado em **C# e ASP.NET**  
+📊 **Habilidades**: C#, ASP.NET, PHP, Java  
 🌍 **Idiomas**: Português (nativo), Inglês (intermediário)  
 
 > 💡 *Sou um programador apaixonado por tecnologia, sempre explorando novas ferramentas e criando soluções inovadoras.*  
@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,cs,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,php,java,spring,mysql" />
 </div>
 
 ---
