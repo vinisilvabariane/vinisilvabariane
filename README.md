@@ -20,17 +20,13 @@
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-FB2C2C?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql&theme=dark" /></a>
 </p>
 
 <p align="center">
-  💡 <em>Principais stacks que utilizo no desenvolvimento de aplicações web e APIs RESTful.</em>
+  <em>💡 Tecnologias que utilizo com foco em desenvolvimento web, APIs RESTful e soluções escaláveis.</em>
 </p>
+
 
 
 ---
