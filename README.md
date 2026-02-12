@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o <strong>Vinicius Bariane</strong></h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+focado+em+C%23+e+ASP.NET;Apaixonado+por+aprender+e+compartilhar+conhecimento+🚀" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+focado+em+C%23+e+ASP.NET;Apaixonado+por+aprender+e+compartilhar+conhecimento+🚀"
   />
 </p>
 
@@ -15,15 +15,15 @@
 - ⚙️ **Competências:** C#, ASP.NET, PHP, Java, MySQL  
 - 🌐 **Idiomas:** Português (nativo) | Inglês (intermediário)
 
-> Desenvolvedor apaixonado por tecnologia e inovação, sempre buscando evoluir e criar soluções que realmente façam a diferença.
+> Desenvolvedor focado em evolução contínua, boas práticas e soluções que geram impacto real.
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql,js,react,html,css,git,github,visualstudio,vscode&theme=dark" 
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql,js,react,html,css,git,github,visualstudio,vscode&theme=dark"
   />
 </p>
 
@@ -32,13 +32,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=vinisilvabariane&show_icons=true&theme=radical&count_private=true" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vinisilvabariane&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"
   />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&theme=radical" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&theme=radical&langs_count=8"
   />
 </p>
 
@@ -47,8 +47,9 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/vinisilvabariane/vinisilvabariane/output/github-contribution-grid-snake.svg" 
+  <img
+    src="https://raw.githubusercontent.com/vinisilvabariane/vinisilvabariane/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
   />
 </p>
 
@@ -68,5 +69,5 @@
 ---
 
 <p align="center">
-  <em>“A tecnologia move o mundo, mas é a vontade de aprender que faz a gente evoluir.” 🚀</em>
+  <em>“A tecnologia move o mundo, mas aprender constantemente é o que faz a gente crescer.” 🚀</em>
 </p>
