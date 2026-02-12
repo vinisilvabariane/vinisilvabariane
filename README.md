@@ -32,7 +32,7 @@
 ## ⚡ Tecnologias que eu domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql,js,react,&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql,js,react" />
 </p>
 
 ---
@@ -63,3 +63,19 @@ public class DevStack
     public string Tools => "Javascript / React ";
     public string Database => "MySQL / SQL Server";
 }
+```
+
+---
+
+## 🌍 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-bariane-57a298221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vini_bariane/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
