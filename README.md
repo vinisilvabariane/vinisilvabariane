@@ -9,8 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas | Engenharia de Computação  
-💼 **Atuação atual:** Desenvolvimento com **C# e ASP.NET**  
-⚙️ **Competências:** C#, ASP.NET, PHP, Java, MySQL  
+💼 **Atuação atual:** Desenvolvimento com **C# e ASP.NET** ⚙️ **Competências:** C#, ASP.NET, PHP, Java, MySQL  
 🌐 **Idiomas:** Português (nativo) | Inglês (intermediário)  
 
 > 💡 *Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de aprimorar minhas habilidades e contribuir com soluções que façam a diferença.*
@@ -20,22 +19,21 @@
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,spring,mysql,js,react,html,css,git,github,visualstudio,vscode&theme=dark" /></a>
 </p>
-
-<p align="center">
-  <em>💡 Tecnologias que utilizo com foco em desenvolvimento web, APIs RESTful e soluções escaláveis.</em>
-</p>
-
-
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividades
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinisilvabariane&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinisilvabariane&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisilvabariane&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+### 👾 Contribution Graph (Pacman Style)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinisilvabariane/vinisilvabariane/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
