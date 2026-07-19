@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+focado+em+C%23+e+ASP.NET;Apaixonado+por+aprender+e+compartilhar+conhecimento+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+focado+em+C%23+e+PHP;Apaixonado+por+aprender+e+compartilhar+conhecimento+🚀"
   />
 </p>
 
