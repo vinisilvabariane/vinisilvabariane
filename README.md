@@ -15,7 +15,7 @@
     <td>
       <ul>
         <li>🎓 Técnico em Desenvolvimento de Sistemas | Engenharia de Computação</li>
-        <li>💼 Programador <strong>C# e ASP.NET</strong></li>
+        <li>💼 Programador <strong>C# e PHP</strong></li>
         <li>🌐 Inglês intermediário | Leitura técnica fluente</li>
         <li>🧠 Sempre aprendendo</li>
         <li>🎯 Foco: Back-end robusto e APIs escaláveis</li>
@@ -58,7 +58,7 @@
 ```csharp
 public class DevStack
 {
-    public string Backend => "C# / ASP.NET Core";
+    public string Backend => "C# / PHP";
     public string Frontend => "React / HTML / CSS";
     public string Tools => "Javascript / React ";
     public string Database => "MySQL / SQL Server";
