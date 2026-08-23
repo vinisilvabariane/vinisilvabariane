@@ -32,7 +32,7 @@
 ## ⚡ Tecnologias que eu domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,java,spring,python,mysql,js,react" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,js,react, mysql" />
 </p>
 
 ---
