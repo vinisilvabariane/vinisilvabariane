@@ -14,8 +14,8 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 Técnico em Desenvolvimento de Sistemas | Engenharia de Computação</li>
-        <li>💼 Programador <strong>C# e PHP</strong></li>
+          <li>🎓 Técnico em Desenvolvimento de Sistemas | Engenheiro de Computação</li>
+        <li>💼 Programador <strong>C# e Javascript</strong></li>
         <li>🌐 Inglês intermediário | Leitura técnica fluente</li>
         <li>🧠 Sempre aprendendo</li>
         <li>🎯 Foco: Back-end robusto e APIs escaláveis</li>
